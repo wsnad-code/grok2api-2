@@ -12,7 +12,7 @@ region = "aws:us-east-1"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "grok2api"
+database_name = "grok2api-2"
 # Filled by CI / your first deployment bootstrap.
 database_id = "REPLACE_WITH_D1_DATABASE_ID"
 migrations_dir = "migrations"
